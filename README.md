@@ -93,13 +93,11 @@ Icons from Material-UI.
 
 Enjoy building your e-commerce website! 🚀
 
-![Screenshot 2025-03-08 215801](https://github.com/user-attachments/assets/1af08808-0529-4abb-9c5c-f6b2c32954f7)
-![Screenshot 2025-03-08 215743](https://github.com/user-attachments/assets/7b576201-1368-43fd-b37d-1b4abd21b8cf)
 
 
-![Screenshot 2025-03-08 215834](https://github.com/user-attachments/assets/1c1eeaff-040e-4784-b4ca-0cf4009d1b9d)
-![Screenshot 2025-03-08 215834](https://github.com/user-attachments/assets/456f8058-904b-4a9e-b983-d7daa4370162)
-![Screenshot 2025-03-08 215801](https://github.com/user-attachments/assets/68e47704-9263-4565-905d-cc38e64e4165)
 
+![Screenshot 2025-03-08 215834](https://github.com/user-attachments/assets/992b457e-c181-48b0-90bb-31c434b0b0f8)
+![Screenshot 2025-03-08 215801](https://github.com/user-attachments/assets/65bb233d-7d4e-4b9c-880c-015ad53678d2)
+![Screenshot 2025-03-08 215743](https://github.com/user-attachments/assets/6123dfe0-dd88-4163-8504-32eba2464960)
 
 
